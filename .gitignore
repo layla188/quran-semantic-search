@@ -7,3 +7,6 @@ __pycache__/
 .vscode/
 
 *.log
+# Generated embedding/index files
+data/quran_embeddings.npy
+data/quran.index
