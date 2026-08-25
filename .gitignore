@@ -10,3 +10,7 @@ __pycache__/
 # Generated embedding/index files
 data/quran_embeddings.npy
 data/quran.index
+
+# VS Code workspace files
+.vscode/
+*.code-workspace
